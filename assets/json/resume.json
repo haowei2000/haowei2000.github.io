@@ -1,200 +1,187 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haowei Wang",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hw_wang@whu.edu.cn",
+    "phone": "(86) 17396156070",
+    "url": "https://haowei2000.github.io/",
+    "summary": "Graduated from Wuhan University with a master's degree in the class of 2025. During the school period, he has participated in many science and innovation competitions with his classmates and won national awards; he has won national scholarships, excellent academic scholarships and other awards; he has published two C journals and a number of softwritings in his own work (in addition to his mentor); he has participated in his mentor's major social science projects and the Hubei National Energy Group cross project, and he has declared and been in charge of the Wuhan University State Secrecy Institute's 2023 independent research projects; Skill mastery level To be able to use python language, basic linux commands, mongodb database, understand third-party libraries such as pytorch, huggingface, etc., and understand natural language processing, generative artificial intelligence related content.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "123 Wuhan St",
+      "postalCode": "430072",
+      "city": "Wuhan",
+      "countryCode": "CN",
+      "region": "Hubei"
+    }
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn/",
+      "area": "Information Management and Information System",
+      "studyType": "BA",
+      "startDate": "2018-09-01",
+      "endDate": "2022-05-01",
+      "score": "3.4/4.0",
+      "courses": [
+        "Data Visualization",
+        "Information System Analysis and Design (Experiment)",
+        "Linear Algebra"
+      ]
+    },
+    {
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn/",
+      "area": "Secrecy Management",
+      "studyType": "BA",
+      "startDate": "2022-09-01",
+      "endDate": "2025-05-01",
+      "score": "3.57/4.0",
+      "courses": [
+        "Computer Network Security",
+        "Data Mining"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "2023 National Scholarship",
+      "date": "2023-11-01",
+      "awarder": "China government",
+      "summary": "Granted by China government for outstanding academic performance and other skills."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "2024 National Scholarship",
+      "date": "2024-11-01",
+      "awarder": "China government",
+      "summary": "Granted by China government for outstanding academic performance and other skills."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "2023 First-Class Scholarship",
+      "date": "2023-11-01",
+      "awarder": "Wuhan University",
+      "summary": "Granted by Wuhan University for outstanding academic performance and other skills."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "2024 First-Class Scholarship",
+      "date": "2024-11-01",
+      "awarder": "Wuhan University",
+      "summary": "Granted by Wuhan University for outstanding academic performance and other skills."
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "The 21st National Post-Graduate Mathematical Contest in Modeling, National Second Prize",
+      "date": "2023-11-01",
+      "awarder": "China Postgraduate Mathematical Contest in Modeling",
+      "summary": "Awarded the National Second Prize in the China Postgraduate Mathematical Contest in Modeling, one of the most prestigious competitions for postgraduate students in China, requiring teamwork to solve complex real-world problems using mathematical modeling within a 72-hour timeframe. Our project is Research on Emergency Enabling of Highway Emergency Lanes Based on High Precision Simulation and Deep Learning."
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "The 20th National Post-Graduate Mathematical Contest in Modeling, National Second Prize",
+      "date": "2022-11-01",
+      "awarder": "China Postgraduate Mathematical Contest in Modeling",
+      "summary": "Awarded the National Second Prize in the China Postgraduate Mathematical Contest in Modeling, one of the most prestigious competitions for postgraduate students in China, requiring teamwork to solve complex real-world problems using mathematical modeling within a 72-hour timeframe. Our project is Stroke risk prediction and associated factors analysis based on multiple interpretable machine learning."
+    },
+    {
+      "title": "The 1st China Postgraduate Fintech Innovation Competition, National Third Prize",
+      "date": "2023-11-01",
+      "awarder": "China Postgraduate Fintech Innovation Competition",
+      "summary": "The competition focuses on the innovative application of artificial intelligence, blockchain, cloud computing, big data and other digital technologies in the financial sector. Our project is Deep Learning-based Text and Image Recognition System for Financial Fraud."
+    },
+    {
+      "title": "The 10th China Graduate Contest on Smart-city Technology and Creative Design, National Third Prize",
+      "date": "2023-11-01",
+      "awarder": "China Graduate Contest on Smart-city Technology and Creative Design",
+      "summary": "The competition is based on the concept of 'Creativity Inspires Wisdom, Innovation Drives Development'. And a total of 2,194 teams from within China participated, and a total of 61 teams won the second prize and above. Our project is Deep Learning-based Multi-Perspective Identity Recognition and Student Classroom Status Detection System."
+    },
+    {
+      "title": "The 5th China Graduate AI Innovation Competition, National Third Prize",
+      "date": "2023-11-01",
+      "awarder": "China Graduate AI Innovation Competition",
+      "summary": "The competition is based on the concept of 'AI Empowerment, Smart Leadership'. Our project is Deep Learning-based Multi-Perspective Identity Recognition and Student Classroom Status Detection System."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A Comparison of Generative AI-generated Content and User-generated Content in the Thematic Perspective",
+      "publisher": "Information studies: Theory and Application",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.16353/j.cnki.1000-7490.2023.10.025",
+      "summary": "This paper compares generative AI-generated content and user-generated content from a thematic perspective."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Identification of ChatGPT Answers and Physician Answers in the Online Medical Community",
+      "publisher": "Data Science and Informetrics",
+      "releaseDate": "2023-08",
+      "url": "https://dsi.hdu.edu.cn/NewsDetail.aspx?ID=196",
+      "summary": "This study identifies differences between ChatGPT answers and physician answers in online medical communities."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Identification Methods of Artificial Intelligence Generated Content in Online Communities",
+      "publisher": "Document, Information and Knowledge",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.13366/j.dik.2024.02.028",
+      "summary": "This paper discusses methods for identifying AI-generated content in online communities."
+    },
+    {
+      "name": "Research on Multidimensional Hierarchical Algorithm Literacy Evaluation",
+      "publisher": "Journal of Modern Information",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.3969/j.issn.1008-0821.2024.03.001",
+      "summary": "This research evaluates algorithm literacy using a multidimensional hierarchical approach."
+    },
+    {
+      "name": "Prediction and Analysis of Multiple Causes of Mental Health Problems Based on Machine Learning",
+      "publisher": "Springer Nature Switzerland",
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1007/978-3-031-57867-0_11",
+      "summary": "This paper predicts and analyzes multiple causes of mental health problems using machine learning."
+    },
+    {
+      "name": "Recognizing Implicitly Toxic Content Based on Multiple Attention Mechanisms",
+      "publisher": "Proceedings of the Association for Information Science and Technology",
+      "releaseDate": "2024",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pra2.1127",
+      "summary": "This study uses multiple attention mechanisms to recognize implicitly toxic content."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Technologies",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-cogs",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Linux",
+        "Mongodb",
+        "Pytorch"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "RBLU (Reverse Bilingual Language Understanding)",
+      "summary": "A benchmark to evaluate the reverse inference ability of large language models, which evaluates reverse inference by providing answers and requiring corresponding questions. RBLU streamlines evaluation by minimizing subjective answer standardization and is adaptable across domains.",
+      "highlights": [
+        "Tools Used: Python, Pytorch"
+      ],
+      "url": "https://github.com/haowei2000/RBLU"
+    },
+    {
+      "name": "Traffic-Congestion-Detection",
+      "summary": "Identify vehicles from real highway videos and count traffic data, build time-series models to predict traffic congestion, and intelligently investigate whether emergency lanes are open.",
+      "highlights": [
+        "Tools Used: Python, Autogluon"
+      ],
+      "url": "https://github.com/haowei2000/Traffic-Congestion-Detection"
     }
   ]
 }
